@@ -1,6 +1,6 @@
 cask "browsercat" do
-  version "1.0.0"
-  sha256 "12c745b21a6829d5040fb670f7231445714646c4c61b28fbb506dc92448754fb"
+  version "1.1.0"
+  sha256 "e87d98629e27804506110793ee90c816d6f721564cba4cb217bc56c895763266"
 
   url "https://github.com/rmarinsky/BrowserCat/releases/download/v#{version}/BrowserCat.dmg"
   name "BrowserCat"
