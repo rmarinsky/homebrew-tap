@@ -1,6 +1,6 @@
 cask "papuga" do
-  version "1.0"
-  sha256 "621ac24135c1593bb0291ccfbe341a025c9779d889e689265d0e9f24a1f8e2e9"
+  version "1.0.1"
+  sha256 "546df65a9e370621d9922a4b62ace97f5ddbce07ed916cc3dd3d0c0f9741364d"
 
   url "https://github.com/rmarinsky/papuga/releases/download/v#{version}/Papuga-#{version}.dmg"
   name "Papuga"
